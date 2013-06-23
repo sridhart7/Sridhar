@@ -1,4 +1,4 @@
 Sridhar
 =======
 
-I have Web Developer with Web UI Falt Designer
+I'm Web Developer with Web UI Flat Designer
